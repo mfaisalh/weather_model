@@ -1,0 +1,3 @@
+input_file: "data/weather_data.nc"
+historical_data_file: "data/historical_weather_data.nc"
+output_dir: "results"
